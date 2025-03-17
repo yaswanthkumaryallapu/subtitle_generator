@@ -1,7 +1,3 @@
-Here’s a **minimal and clean** `README.md` content for your project that includes only **`app.py`** and **Jupyter Notebook (`.ipynb`)** details:  
-
----
-
 # **Subtitle Generator**
 
 ## **📌 Overview**  
